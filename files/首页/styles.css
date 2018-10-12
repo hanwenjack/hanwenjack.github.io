@@ -37,13 +37,35 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u6_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:51px;
+  background:inherit;
+  background-color:rgba(227, 251, 227, 0.529411764705882);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
 #u6 {
   border-width:0px;
   position:absolute;
-  left:192px;
+  left:190px;
   top:547px;
-  width:59px;
-  height:53px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
+  width:70px;
+  height:51px;
+}
+#u6_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
